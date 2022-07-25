@@ -1,0 +1,162 @@
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\bin\Debug\Projeto1.exe.config
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\bin\Debug\Projeto1.exe
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.SuggestedBindingRedirects.cache
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.exe
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.pdb
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.frmLogin.resources
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.frmMenu.resources
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.Cadastros.frmFuncionarios.resources
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.Cadastros.frmCargo.resources
+D:\Programador Informático\C#\Desenvolvimento Front-End com CSharp\Projeto1\Projeto1\obj\Debug\Projeto1.Cadastros.frmProdutos.resources
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\Projeto1.exe.config
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\Projeto1.exe
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\Projeto1.pdb
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\MySql.Data.dll
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\Google.Protobuf.dll
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\ZstdNet.dll
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\System.Memory.dll
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\System.Buffers.dll
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\bin\Debug\MySql.Data.xml
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.SuggestedBindingRedirects.cache
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.exe.config
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmCargo.resources
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmFuncionarios.resources
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmProdutos.resources
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.frmLogin.resources
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.frmMenu.resources
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.CopyComplete
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.exe
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.pdb
+D:\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmUsuarios.resources
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\Projeto1.exe.config
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\Projeto1.exe
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\Projeto1.pdb
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\MySql.Data.dll
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\Google.Protobuf.dll
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\ZstdNet.dll
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\System.Memory.dll
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\System.Buffers.dll
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\MySql.Data.xml
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.SuggestedBindingRedirects.cache
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.exe.config
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmCargo.resources
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmFuncionarios.resources
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmProdutos.resources
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmUsuarios.resources
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.frmLogin.resources
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.frmMenu.resources
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.CopyComplete
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.exe
+D:\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\Google.Protobuf.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\ZstdNet.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\System.Memory.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\System.Buffers.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\bin\Debug\MySql.Data.xml
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.exe.config
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmCargo.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmFuncionarios.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmProdutos.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Cadastros.frmUsuarios.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.frmLogin.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.frmMenu.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.csproj.CopyComplete
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao\Projeto1\obj\Debug\Projeto1.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.exe.config
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.Cadastros.frmCargos.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.Cadastros.frmFuncionarios.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.Cadastros.frmProdutos.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.Cadastros.frmGestaoQuartos.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.Cadastros.frmUsuarios.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.frmLogin.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.frmMenu.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\Google.Protobuf.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\ZstdNet.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\System.Memory.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\System.Buffers.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\bin\Debug\MySql.Data.xml
+C:\Users\Utilizador\BackUp\Programador Informático\Projeto Final C# -Débora, Orlando e Natasha\Projeto1 - continuacao - Cópia\Projeto1\obj\Debug\Projeto1.csproj.CopyComplete
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.exe.config
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.Cadastros.frmCargos.resources
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.Cadastros.frmFornecedores.resources
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.Cadastros.frmFuncionarios.resources
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.Cadastros.frmProdutos.resources
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.Cadastros.frmGestaoQuartos.resources
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.Cadastros.frmUsuarios.resources
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.frmLogin.resources
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.frmMenu.resources
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\Google.Protobuf.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\ZstdNet.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\System.Memory.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\System.Buffers.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\bin\Debug\MySql.Data.xml
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.csproj.CopyComplete
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.Cadastros.frmEstoque.resources
+C:\Users\Utilizador\BackUp\Programador Informático\C#\4 Desenvolvedor Back-End com CSharp\Projeto Final Curso\Projeto1\obj\Debug\Projeto1.Cadastros.frmservicos.resources
